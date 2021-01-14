@@ -9,7 +9,7 @@ Modern updated personal portfolio site!
 
 ## Screenshots
 
-| ***Home***                | ***Portfolio***                         |
+| ***Home***                     | ***Portfolio***                         |
 | :----------------------------: | :-------------------------------------: |
 | ![About](./docs/mmHome400.jpg) | ![Portfolio](./docs/mmPortfolio400.jpg) |
 
