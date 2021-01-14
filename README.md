@@ -25,14 +25,15 @@ Updated my portfolio to a more modern layout!
 ## Installation 🛠️ <a name="installation"></a>
 
 ```.
-No installation as this is just a website
+Just a Website. No installation required.
 ```
+
+`https://michellemcconville.github.io/16-updated-portfolio/`
 
 ## Usage ⚙️ <a name="usage"></a>
 
 ```.
 Just click to go to the website...Enjoy!
-https://michellemcconville.github.io/16-updated-portfolio/
 ```
 
 ## Contributing 🤝 <a name="contributing"></a>
