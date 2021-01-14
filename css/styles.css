@@ -673,6 +673,7 @@ input[type='checkbox'] {
 .navbar-custom .navbar-brand.logo-text {
 	margin-top: 0.25rem;
 	margin-bottom: 0.25rem;
+	margin-left: 2rem;
 	font: 700 2.25rem/1.5rem "Montserrat", sans-serif;
 	color: #fff;
 	text-decoration: none;
@@ -1873,18 +1874,19 @@ a:hover.back-to-top {
 		display: none;
 	}
 	
-	.logo-text {
-		margin-left: 1.2rem;
-	}
-
 	.navbar-brand.navbar-brand.logo-text {
 		font-size: 15px;
+		margin-left: .5rem;
 	}
 
 	.navbar-custom {
 		padding: .25rem;
 		box-shadow: none;
         background: #2b213b;
+	}
+
+	.p-small {
+		font-size: 11px;
 	}
 
 	.text-container > p {
