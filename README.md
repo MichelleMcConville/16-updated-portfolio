@@ -9,10 +9,9 @@ Modern updated personal portfolio site!
 
 ## Screenshots
 
-| ***About Me***                           | ***Portfolio***                                |
-| :--------------------------------------: | :--------------------------------------------: |
-| ![About](./images/updatedAboutMe400.jpg) | ![Portfolio](./images/updatedPortfolio400.png) |
-
+| ***Home***                | ***Portfolio***                         |
+| :----------------------------: | :-------------------------------------: |
+| ![About](./docs/mmHome400.jpg) | ![Portfolio](./docs/mmPortfolio400.jpg) |
 
 ## Table of Contents ✨
 
