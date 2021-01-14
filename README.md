@@ -5,7 +5,7 @@
 
 ## Description
 
-Modern updated personal portfolio site!
+Updated my portfolio to a more modern layout!
 
 ## Screenshots
 
