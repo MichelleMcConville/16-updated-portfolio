@@ -28,13 +28,13 @@ Updated my portfolio to a more modern layout!
 Just a Website. No installation required.
 ```
 
-`https://michellemcconville.github.io/16-updated-portfolio/`
-
 ## Usage ⚙️ <a name="usage"></a>
 
 ```.
-Just click to go to the website...Enjoy!
+Select the link below & enjoy!
 ```
+
+> [My Updated Portfolio](https://michellemcconville.github.io/16-updated-portfolio/) 🔗
 
 ## Contributing 🤝 <a name="contributing"></a>
 
